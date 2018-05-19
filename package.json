@@ -1,12 +1,11 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple Node Examples",
   "main": "index.js",
   "scripts": {
-    "start":"npm run lite",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lite":"lite-server"
+    "start":"node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Anh Nguyen",
   "license": "ISC",
